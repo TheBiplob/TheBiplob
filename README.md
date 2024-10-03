@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBiplob
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning Figma and C#
+- 🌱 I’m currently learning C#, Python and Figma.
 
 <!---
 TheBiplob/TheBiplob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
