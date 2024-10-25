@@ -3,6 +3,7 @@
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning C#, Python and Figma.
 - 🔭 I’m currently working on improving my HTML and CSS skills.
+- 📞 Open to freelancing job.
 
 
 ## 🌐 Socials:
